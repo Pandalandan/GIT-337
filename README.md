@@ -1,2 +1,2 @@
 # GIT 337
-Summer A
+Test page for GIT 337
